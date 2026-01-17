@@ -8,3 +8,6 @@ arr2 = [4, 5, 6]
 result = add_arrays(arr1, arr2)
 
 print("Result:", result)
+
+
+print("This is a new line added to the file.")
